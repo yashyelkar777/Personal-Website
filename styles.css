@@ -1,0 +1,119 @@
+
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      
+      
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        background-color: #f4f4f4;
+        color: #803737;
+      }
+      
+      
+      header {
+        background: #333333;
+        color: #fff;
+        padding: 20px 0;
+        text-align: center;
+      }
+      
+      header h1 {
+        margin-bottom: 10px;
+      }
+      
+      header p {
+        font-size: 1.1rem;
+        margin-bottom: 20px;
+      }
+      
+      
+      nav {
+        background: #444;
+        color: #fff;
+        padding: 10px 0;
+      }
+      
+      nav .container {
+        display: flex;
+        justify-content: center;
+      }
+      
+      nav ul {
+        list-style: none;
+        display: flex;
+      }
+      
+      nav ul li {
+        margin: 0 15px;
+      }
+      
+      nav ul li a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 1.2rem;
+      }
+      
+      nav ul li a:hover {
+        color: #1c5829;
+      }
+      
+      
+            section {
+        padding: 40px 0;
+      }
+      
+      section h2 {
+        text-align: center;
+        font-size: 2rem;
+        margin-bottom: 20px;
+      }
+      
+      section p {
+        text-align: center;
+        font-size: 1.1rem;
+        margin-bottom: 20px;
+      }
+      
+     
+      .container {
+        width: 80%;
+        margin: 0 auto;
+        max-width: 1200px;
+      }
+      
+      
+      ul {
+        list-style: none;
+        padding-left: 0;
+        text-align: center;
+      }
+      
+      ul li {
+        display: inline-block;
+        background: #1cc6af;
+        color: white;
+        padding: 10px 15px;
+        margin: 5px;
+        border-radius: 3px;
+      }
+      
+      
+      .project {
+        background: #fff;
+        border: 1px solid #ddd;
+        padding: 20px;
+        margin: 20px 0;
+        border-radius: 5px;
+      }
+      
+      .project h3 {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+      }
+      
+     
+      
